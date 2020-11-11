@@ -1,4 +1,4 @@
-Citizen.Trace('^1Salva#0352')
+Citizen.Trace('^1WeZorLua#0577')
 
 Citizen.CreateThread(function()
     SetMapZoomDataLevel(0, 0.96, 0.9, 0.08, 0.0, 0.0) -- Level 0
